@@ -88,6 +88,14 @@ h1, h2, h3, h4, h5, h6 {
   line-height: 50px;
   color: #fff;
 }
+#site-home .text-wrapper .text-content .sub-lead {
+  font-size: 30px;
+  line-height: 30px;
+  line-height: 42px;
+  font-weight: 100;
+  margin-bottom: 30px;
+  color: white;
+}
 
 #fh5co-header {
   position: absolute;
