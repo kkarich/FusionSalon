@@ -60,7 +60,20 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 #site-home{
-    height:800px;
+    height:100vh;
+}
+
+#site-home .text-wrapper{
+    height: 100vh;
+    display: table;
+    width: 100%;
+}
+
+
+#site-home .text-wrapper .text-content{
+    height: 100vh;
+    display: table;
+    width: 100%;
 }
 
 #fh5co-header {
