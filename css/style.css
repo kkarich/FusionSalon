@@ -301,6 +301,11 @@ h1, h2, h3, h4, h5, h6 {
 #fh5co-testimonials {
   background: #6173f4;
 }
+#fh5co-testimonials .section-heading {
+    padding-bottom: 0;
+    margin-bottom: 0;
+}
+
 #fh5co-testimonials .section-heading h2 {
   color: white;
 }
