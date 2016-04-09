@@ -70,10 +70,11 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 
-#site-home .text-wrapper .text-content{
-    height: 100vh;
-    display: table;
-    width: 100%;
+#site-home .text-wrapper .text-content{    
+    display: table-cell;
+    vertical-align: middle;
+    z-index: 10;
+    position: relative;
 }
 
 #fh5co-header {
