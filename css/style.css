@@ -63,12 +63,14 @@ h1, h2, h3, h4, h5, h6 {
 #background{
     height:110vh;
     width:100%;
-    display:none;
     z-index:1;
     background-repeat: no-repeat;
     background-size: cover;
     background-position: top left;
     position: absolute;
+    
+        transition: opacity 0.5s ease;
+    opacity: 0;
 }
 
 #site-home{
