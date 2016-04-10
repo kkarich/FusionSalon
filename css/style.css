@@ -66,10 +66,10 @@ h1, h2, h3, h4, h5, h6 {
 
 #site-home{
     opacity:0;
-    -webkit-animation:fadeIn ease-in 1;
-    -moz-animation:fadeIn ease-in 1;
-    -o-animation:fadeIn ease-in 1;
-    animation:fadeIn ease-in 1;
+    -webkit-animation:fadeIn ease-in 3;
+    -moz-animation:fadeIn ease-in 3;
+    -o-animation:fadeIn ease-in 3;
+    animation:fadeIn ease-in 3;
     -webkit-animation-fill-mode:forwards;
     -moz-animation-fill-mode:forwards;
     -o-animation-fill-mode:forwards;
