@@ -74,6 +74,11 @@ h1, h2, h3, h4, h5, h6 {
     -moz-animation-fill-mode:forwards;
     -o-animation-fill-mode:forwards;
     animation-fill-mode:forwards;
+    
+        -webkit-animation-delay:3s;
+        -moz-animation-delay:3s;
+        -o-animation-delay:3s;
+        animation-delay:3s;
     height:110vh;
     background-repeat: no-repeat;
     background-size: cover;
