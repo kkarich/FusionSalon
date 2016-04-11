@@ -61,7 +61,7 @@ h1, h2, h3, h4, h5, h6 {
 
 
 #background{
-    height:110vh;
+    height:100vh;
     width:100%;
     z-index:1;
     background-repeat: no-repeat;
@@ -74,7 +74,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 #site-home{
-    height:110vh;
+    height:100vh;
     background-repeat: no-repeat;
     background-size: cover;
     background-position: top left;
@@ -83,7 +83,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 #site-home .overlay{
-    height: 110vh;
+    height: 100vh;
     background-color: rgba(0,0,0,.5);
     position: absolute;
     width: 100%;
