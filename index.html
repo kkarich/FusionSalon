@@ -225,9 +225,15 @@ layout: default
 	<!--<script src="js/jquery.style.switcher.js"></script>-->
 	<script>
 	
-	$('#background').load(function() {
-        $('#background').css('background-image','url(' + $('#background').attr('src') +  ')');
-        $('#background').css('opacity',1);
+// 	$('#background').load(function() {
+//         $('#background').css('background-image','url(' + $('#background').attr('src') +  ')');
+//         $('#background').css('opacity',1);
+//     });
+    
+    $("#background").on('load', function() {
+      $('#background').css('opacity',1);
+    }).each(function() {
+      if(this.complete) $(this).load();
     });
 	
 // 	$(function(){
