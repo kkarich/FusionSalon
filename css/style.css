@@ -125,6 +125,29 @@ h1, h2, h3, h4, h5, h6 {
   color: white;
 }
 
+
+
+@media screen and (max-width: 768px) {
+    #background{
+        height:600px;
+    }
+
+    #site-home{
+        height:600px;
+    }
+    
+    #site-home .overlay{
+        height: 600px;
+    }
+    
+    
+    #site-home .text-wrapper{
+        height: 600px;
+    }
+}
+
+
+
 #fh5co-header {
   position: absolute;
   z-index: 99;
