@@ -18,6 +18,14 @@ collections:
   stylists:
     output: true
 
+defaults:
+  -
+    scope:
+      path: ""
+      type: "stylists"
+    values:
+      layout: "stylist"
+
 # Build settings
 markdown: kramdown
 #sass:
