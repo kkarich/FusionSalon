@@ -4,6 +4,10 @@
 				<div class="col-md-12 section-heading text-center to-animate">
 					<h2 class="editable">Stylists</h2>
 				</div>
+				  {% for stylist in site.stylists %}
+                          {{ member.name }} - <strong>{{ member.position }}</strong>
+                  {% endfor %}
+				
 				<div class="col-md-12">
 					<div class="row row-bottom-padded-lg">
 						<div class="col-md-4 text-center to-animate">
