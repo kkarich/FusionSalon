@@ -11,7 +11,7 @@
 				  {% for stylist in site.stylists %}
 						<div class="col-md-4 text-center to-animate">
 							<div class="person">
-								<img src="" class="img-responsive img-rounded" alt="Person" />
+								<img src="{{stylist.profile_image_path}}" class="img-responsive img-rounded" alt="Person" />
 								<h3 class="name">{{ stylist.name }}</h3>
 								<!--<div class="position">Web Developer</div>-->
 								<p> {{ stylist.mini-bio }} </p>
