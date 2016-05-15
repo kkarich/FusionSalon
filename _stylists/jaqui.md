@@ -1,7 +1,7 @@
 ---
 name: jacquie
-mini-bio: Test
-bio: "Angela, Glen Ellyn native and Owner of Fusion… A Contemporary Hair Salon, has been behind the chair for over 12 years.  She studied at Pivot Point International Academy and continued her education for two years with Kathy Simon, the creator of The Mekka System Education of Cutting and Schwarzkopf Color.  Angela is experienced in all aspects of hair color, cutting and styling.  Angela believes continuing education is very important and is inspired to stay up-to-date on hair color, cutting and styling by studying the latest tools, products and techniques. Angela’s main priority is to establish strong relationships with each client, which allows her to perfect the cut, color and style to each individual's vision and needs.  Angela takes great pride in her work and her salon, which is reflected  in the relationships she has built with her return clientele."
+mini-bio: 'Hello my name is Jacquie and I am in the business of helping people feel good about themselves. I have over 25 years of experience in coloring,cutting,straightening and perming peoples hair.'
+bio: "Hello my name is Jacquie and I am in the business of helping people feel good about themselves. I have over 25 years of experience in coloring,cutting,straightening and perming peoples hair. \nMost of my clientele are working women and stay at home moms,but I also cut and style men and children's hair.\nI've studied with and worked with people who trained under Vidal Sassoon. I'm continually working to stay current in my craft in order to bring you the must up to date and flattering looks."
 profile_image_path: images/person2.jpg
 ---
 
