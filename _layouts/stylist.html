@@ -2,13 +2,17 @@
 layout: default
 ---
 
+<img src="/{{ page.profile_image_path }}" alt="{{ page.name }}">
+<h1>{{ page.name }} </h1>
+{{ page.bio }}
+
 <div class="container">
     <div class="row profile">
 		<div class="col-md-3">
 			<div class="profile-sidebar">
 				<!-- SIDEBAR USERPIC -->
 				<div class="profile-userpic">
-					<img src="http://keenthemes.com/preview/metronic/theme/assets/admin/pages/media/profile/profile_user.jpg" class="img-responsive" alt="">
+					<img src="/{{ page.profile_image_path }}" alt="{{ page.name }}" class="img-responsive" >
 				</div>
 				<!-- END SIDEBAR USERPIC -->
 				<!-- SIDEBAR USER TITLE -->
