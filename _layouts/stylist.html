@@ -118,48 +118,68 @@ body {
 	</head>
 	
 	<body>
-	
+	    
+	<header role="banner" id="fh5co-header">
+			<div class="container">
+				<!-- <div class="row"> -->
+			    <nav class="navbar navbar-default">
+		        <div class="navbar-header">
+		        	<!-- Mobile Toggle Menu Button -->
+					<a href="#" class="js-fh5co-nav-toggle fh5co-nav-toggle" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar"><i></i></a>
+		          	<a class="navbar-brand editable" href="index.html">Fusion Salon</a> 
+		        </div>
+		        <div id="navbar" class="navbar-collapse collapse">
+		          <ul class="nav navbar-nav navbar-right">
+		            <li class="active"><a href="#" data-nav-section="home"><span class="editable">home</span></a></li>
+		            <li><a href="#" data-nav-section="about"><span class="editable">about us</span></a></li>
+		            <li><a href="#" data-nav-section="newclient"><span class="editable">new clients</span></a></li>
+		            <li><a href="#" data-nav-section="stylists"><span class="editable">stylists</span></a></li>
+		            <li><a href="#" data-nav-section="contact"><span class="editable">contact us</span></a></li>
+		          </ul>
+		        </div>
+			    </nav>
+			  <!-- </div> -->
+		  </div>
+	</header>	
 
-
-
-<div class="container">
-    <div class="row profile">
-		<div class="col-md-3">
-			<div class="profile-sidebar">
-				<!-- SIDEBAR USERPIC -->
-				<div class="profile-userpic">
-					<img src="/{{ page.profile_image_path }}" alt="{{ page.name }}" class="img-responsive" />
-				</div>
-				<!-- END SIDEBAR USERPIC -->
-				<!-- SIDEBAR USER TITLE -->
-				<div class="profile-usertitle">
-					<div class="profile-usertitle-name">
-						{{ page.name }}
-					</div>
-					
-				</div>
-			    <div class="profile-contact">
-					<div>Contact Information</div>
-					<ul>
-					    <li>Phone: {{page.phone}}</li>
-					    <li>Email: {{page.email}}</li>
-					</ul>
-		    	</div>
-			</div>
-		</div>
-		<div class="col-md-9">
-            <div class="profile-content">
-                
-                <h2> Bio </h2>
-                <p class="editable"> {{ page.bio }} </p>
-                
-                <h2>Price List</h2>
-                <div class="editable"><ul><li>Women's haircut-$50</li><li>Men's haircut-$30</li><li>Kids haircut (under 12 yrs)- starting at $20</li><li>Blow dry and style-starting at $25</li><li>Up-do's- starting at $65</li></ul><h4>Color</h4><ul><li>Touch-up- $50</li><li>Touch-up and pull through-$65</li><li>Partial foil- starting at $65</li><li>Full foil-starting at $95</li><li>Touch up between foils-$25 Corrective color(consultation required)</li></ul></div>
-			   
-            </div>
-		</div>
-	</div>
-</div>
+    <div class="container">
+        <div class="row profile">
+    		<div class="col-md-3">
+    			<div class="profile-sidebar">
+    				<!-- SIDEBAR USERPIC -->
+    				<div class="profile-userpic">
+    					<img src="/{{ page.profile_image_path }}" alt="{{ page.name }}" class="img-responsive" />
+    				</div>
+    				<!-- END SIDEBAR USERPIC -->
+    				<!-- SIDEBAR USER TITLE -->
+    				<div class="profile-usertitle">
+    					<div class="profile-usertitle-name">
+    						{{ page.name }}
+    					</div>
+    					
+    				</div>
+    			    <div class="profile-contact">
+    					<div>Contact Information</div>
+    					<ul>
+    					    <li>Phone: {{page.phone}}</li>
+    					    <li>Email: {{page.email}}</li>
+    					</ul>
+    		    	</div>
+    			</div>
+    		</div>
+    		<div class="col-md-9">
+                <div class="profile-content">
+                    
+                    <h2> Bio </h2>
+                    <p class="editable"> {{ page.bio }} </p>
+                    
+                    <h2>Price List</h2>
+                    <div class="editable"><ul><li>Women's haircut-$50</li><li>Men's haircut-$30</li><li>Kids haircut (under 12 yrs)- starting at $20</li><li>Blow dry and style-starting at $25</li><li>Up-do's- starting at $65</li></ul><h4>Color</h4><ul><li>Touch-up- $50</li><li>Touch-up and pull through-$65</li><li>Partial foil- starting at $65</li><li>Full foil-starting at $95</li><li>Touch up between foils-$25 Corrective color(consultation required)</li></ul></div>
+    			   
+                </div>
+    		</div>
+    	</div>
+    </div>
 	
 
 	
