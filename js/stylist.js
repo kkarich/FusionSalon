@@ -447,16 +447,8 @@
 		burgerMenu();
 		owlCrouselFeatureSlide();
 		clickMenu();
-		windowScroll();
+// 		windowScroll();
 		navigationSection();
-
-		aboutWayPoint();
-		teamWayPoint();
-		servicesWayPoint();
-		featuresWayPoint();
-		testimonialsWayPoint();
-		pricingWayPoint();
-		pressWayPoint();
 
 	});
 
