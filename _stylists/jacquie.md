@@ -1,7 +1,7 @@
 ---
 name: Jacquie
 phone: 630.290.8674
-email: Ang.fusion116@gmail.com
+email: Retrohair@msn.com
 mini-bio: Test
 profile_image_path: images/stylists/angie.jpg
 
