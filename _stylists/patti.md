@@ -7,7 +7,13 @@ profile_image_path: images/stylists/angie.jpg
 
 mini-bio: "Angela, Glen Ellyn native and Owner of Fusion… A Contemporary Hair Salon, has been behind the chair for over 12 years.  She studied at Pivot Point International Academy and continued her education for two years with Kathy Simon, the creator of The Mekka System Education of Cutting and Schwarzkopf Color."
 
-bio: "Angela, Glen Ellyn native and Owner of Fusion… A Contemporary Hair Salon, has been behind the chair for over 12 years.  She studied at Pivot Point International Academy and continued her education for two years with Kathy Simon, the creator of The Mekka System Education of Cutting and Schwarzkopf Color.  Angela is experienced in all aspects of hair color, cutting and styling.  Angela believes continuing education is very important and is inspired to stay up-to-date on hair color, cutting and styling by studying the latest tools, products and techniques. Angela’s main priority is to establish strong relationships with each client, which allows her to perfect the cut, color and style to each individual's vision and needs.  Angela takes great pride in her work and her salon, which is reflected  in the relationships she has built with her return clientele."
+bio: "I have been working in Glen Ellyn as a stylist for over 18 years now.
+
+I specialize in precision cutting with an artistic vision and impeccable attention to detail. I enjoy working with clients to come up with color and styles individualized to their personal needs.
+
+I have extensive color training with Redken Professional Hair Color. I enjoy keeping up and learning the latest trends in hair color, like Ombré and Bayalage. I try to work with clients to achieve natural hair color that helps bring out the details in their hair style.
+
+If you are interested in my services as a hair stylist please feel free to contact me via my email address and I will get back to you as soon as possible."
 
 prices: "Women's haircut-$50
 Men's haircut-$30
