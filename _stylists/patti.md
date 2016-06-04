@@ -19,7 +19,6 @@ I have extensive color training with Redken Professional Hair Color. I enjoy kee
 
 If you are interested in my services as a hair stylist please feel free to contact me via my email address and I will get back to you as soon as possible."
 
-prices:
 
 ---
 
