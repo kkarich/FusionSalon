@@ -1,6 +1,6 @@
 ---
 name: Patti
-phone: 630.290.8674
+phone: 
 email: PattiBStylist@gmail.com
 profile_image_path: images/stylists/angie.jpg
 
