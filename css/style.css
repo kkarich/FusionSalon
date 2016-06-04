@@ -65,7 +65,7 @@ h1, h2, h3, h4, h5, h6 {
     width:100%;
     z-index:1;
     background-size: cover;
-    background-image: url("//d1qmdf3vop2l07.cloudfront.net/violet-wood.cloudvent.net/compressed/dc5fb29d0c48393f1707bb29698fcc83.jpg");
+    background-image: url("/images/background.jpg");
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-position: center;
