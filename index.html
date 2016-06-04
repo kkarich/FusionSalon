@@ -88,7 +88,7 @@ layout: default
     $("#background-image").on('load', function() {
       $('#background').css('opacity',1);
     
-    $('#background').css('background-image',$("#background-image").prop('src'));
+    $('#background').css('background-image',$("#background-image").attr('src'));
     
     }).each(function() {
       if(this.complete) $(this).load();
