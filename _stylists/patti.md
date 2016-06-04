@@ -23,5 +23,3 @@ Touch up between foils-$25
 Corrective color(consultation required)"
 
 ---
-
-
