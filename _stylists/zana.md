@@ -1,5 +1,5 @@
 ---
-name: Patti
+name: Zana
 phone: 
 email: PattiBStylist@gmail.com
 profile_image_path: images/stylists/angie.jpg
