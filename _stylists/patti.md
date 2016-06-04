@@ -5,7 +5,9 @@ email: Ang.fusion116@gmail.com
 profile_image_path: images/stylists/angie.jpg
 
 
-mini-bio: "Angela, Glen Ellyn native and Owner of Fusion… A Contemporary Hair Salon, has been behind the chair for over 12 years.  She studied at Pivot Point International Academy and continued her education for two years with Kathy Simon, the creator of The Mekka System Education of Cutting and Schwarzkopf Color."
+mini-bio: "I have been working in Glen Ellyn as a stylist for over 18 years now.
+
+I specialize in precision cutting with an artistic vision and impeccable attention to detail. I enjoy working with clients to come up with color and styles individualized to their personal needs."
 
 bio: "I have been working in Glen Ellyn as a stylist for over 18 years now.
 
