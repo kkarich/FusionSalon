@@ -165,12 +165,11 @@ body {
     			    <div class="profile-contact">
     					<div>Contact Information</div>
     					{% if page.phone %}
-                          <p>We're not hiring right now</p>
+                          <p>Phone: {{page.phone}}</p>
                         {% endif %}
-    					<ul>
-    					    <li>Phone: {{page.phone}}</li>
-    					    <li>Email: {{page.email}}</li>
-    					</ul>
+    					{% if page.phone %}
+                          <p>Email: {{page.email}}</p>
+                        {% endif %}
     		    	</div>
     			</div>
     		</div>
