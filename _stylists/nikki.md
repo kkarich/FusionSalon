@@ -9,13 +9,7 @@ mini-bio: "I have been working in Glen Ellyn as a stylist for over 18 years now.
 
 I specialize in precision cutting with an artistic vision and impeccable attention to detail. I enjoy working with clients to come up with color and styles individualized to their personal needs."
 
-bio: "I have been working in Glen Ellyn as a stylist for over 18 years now.
-
-I specialize in precision cutting with an artistic vision and impeccable attention to detail. I enjoy working with clients to come up with color and styles individualized to their personal needs.
-
-I have extensive color training with Redken Professional Hair Color. I enjoy keeping up and learning the latest trends in hair color, like Ombré and Bayalage. I try to work with clients to achieve natural hair color that helps bring out the details in their hair style.
-
-If you are interested in my services as a hair stylist please feel free to contact me via my email address and I will get back to you as soon as possible."
+bio: "Nikki has been a hairstylist in Glen Ellyn for over 15 years delivering exceptional customer service, while helping her clients develop their desired look. She believes the most important component of good color is protecting the integrity of the client’s hair, while listening to the client’s specific wants and needs. She enjoys reinventing and sees each head of hair as a blank canvas ready for a new creation. Nikki continues to learn the latest techniques and stays ahead of the curve through classroom training, as well as by attending industry workshops and conferences around the country. "
 
 prices: "Women's haircut-$50
 Men's haircut-$30
