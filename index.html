@@ -86,8 +86,8 @@ layout: default
 //     });
     
     $("#background-image").on('load', function() {
-      $('#background').css('opacity',1);
     $('#background').css('background-image','url(' + $("#background-image").attr('src') + ')');
+      $('#background').css('opacity',1);
     
     }).each(function() {
       if(this.complete) $(this).load();
