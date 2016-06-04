@@ -5,9 +5,7 @@ email: PattiBStylist@gmail.com
 profile_image_path: images/stylists/angie.jpg
 
 
-mini-bio: "I have been working in Glen Ellyn as a stylist for over 18 years now.
-
-I specialize in precision cutting with an artistic vision and impeccable attention to detail. I enjoy working with clients to come up with color and styles individualized to their personal needs."
+mini-bio: "Nikki has been a hairstylist in Glen Ellyn for over 15 years delivering exceptional customer service, while helping her clients develop their desired look. She believes the most important component of good color is protecting the integrity of the client’s hair, while listening to the client’s specific wants and needs."
 
 bio: "Nikki has been a hairstylist in Glen Ellyn for over 15 years delivering exceptional customer service, while helping her clients develop their desired look. She believes the most important component of good color is protecting the integrity of the client’s hair, while listening to the client’s specific wants and needs. She enjoys reinventing and sees each head of hair as a blank canvas ready for a new creation. Nikki continues to learn the latest techniques and stays ahead of the curve through classroom training, as well as by attending industry workshops and conferences around the country. "
 
