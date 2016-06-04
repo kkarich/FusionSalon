@@ -1,7 +1,7 @@
 ---
 name: Patti
 phone: 630.290.8674
-email: Ang.fusion116@gmail.com
+email: PattiBStylist@gmail.com
 profile_image_path: images/stylists/angie.jpg
 
 
