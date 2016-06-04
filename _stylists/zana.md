@@ -1,7 +1,7 @@
 ---
 name: Zana
 phone: 630.890.8516 
-email: PattiBStylist@gmail.com
+email: 
 profile_image_path: images/stylists/angie.jpg
 
 
