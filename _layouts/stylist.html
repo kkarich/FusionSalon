@@ -164,6 +164,9 @@ body {
     				</div>
     			    <div class="profile-contact">
     					<div>Contact Information</div>
+    					{% if page.phone != null %}
+                          <p>We're not hiring right now</p>
+                        {% endif %}
     					<ul>
     					    <li>Phone: {{page.phone}}</li>
     					    <li>Email: {{page.email}}</li>
