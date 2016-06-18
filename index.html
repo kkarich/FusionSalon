@@ -97,20 +97,6 @@ layout: default
     });
 
     
-    
-      function autoPlayYouTubeModal() {
-      var trigger = $("body").find('[data-toggle="modal"]');
-      trigger.click(function () {
-          console.log("test")
-          var theModal = $(this).data("target"),
-              videoSRC = $(this).attr("data-theVideo"),
-              videoSRCauto = videoSRC + "?autoplay=1";
-          $(theModal + ' iframe').attr('src', videoSRCauto);
-          
-          $(theModal).on('hidden.bs.modal', function () {
-              $(theModal + ' iframe').attr('src', videoSRC);
-            });
-      });
       
       $(document).delegate('*[data-toggle="lightbox"]', 'click', function(event) {
             event.preventDefault();
@@ -118,7 +104,6 @@ layout: default
         }); 
 
   }
-      autoPlayYouTubeModal();
     
 	</script>
 	<!-- End demo purposes only -->
