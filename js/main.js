@@ -437,14 +437,6 @@
 
 	};
 
-
-	var openVideoPlayer = function(){
-	    
-	}
-	
-	var closeVideoPlayer = function(){
-	    
-	}
 	
 
 	// Document on load.
@@ -464,7 +456,6 @@
 		pricingWayPoint();
 		pressWayPoint();
 		
-		openVideoPlayer()
 
 	});
 
