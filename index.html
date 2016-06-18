@@ -111,6 +111,12 @@ layout: default
               $(theModal + ' iframe').attr('src', videoSRC);
             });
       });
+      
+      $(document).delegate('*[data-toggle="lightbox"]', 'click', function(event) {
+    event.preventDefault();
+    $(this).ekkoLightbox();
+}); 
+
   }
       autoPlayYouTubeModal();
     
