@@ -112,7 +112,7 @@ h1, h2, h3, h4, h5, h6 {
     color:white;
 }
 #site-home .text-wrapper .text-content .lead {
-  font-weight: 700;
+  font-family: 'Dancing Script', cursive;
   margin-bottom: 20px;
   margin-top: 0;
   text-transform: uppercase;
