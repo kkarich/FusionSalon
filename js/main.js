@@ -97,7 +97,7 @@
 	// Page Nav
 	var clickMenu = function() {
 
-		$('a:not([class="external"])').click(function(event){
+		$('a:not(".external")').click(function(event){
 			var section = $(this).data('nav-section'),
 				navbar = $('#navbar');
 		    $('html, body').animate({
