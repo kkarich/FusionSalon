@@ -1165,7 +1165,7 @@ h1, h2, h3, h4, h5, h6 {
   padding: 0;
 }
 .owl-carousel-fullwidth .item .fh5co-owl-text .fh5co-lead {
-  font-weight: 700;
+  font-family: 'Dancing Script', cursive;
   margin-bottom: 20px;
   margin-top: 0;
   text-transform: uppercase;
