@@ -105,11 +105,11 @@ layout: default
           $(theModal + ' iframe').attr('src', videoSRCauto);
           
           $(theModal).on('hidden.bs.modal', function () {
-  // do something…
+  $(theModal + ' iframe').attr('src', videoSRC);
 })
           
           $(theModal + ' button.close').click(function () {
-              $(theModal + ' iframe').attr('src', videoSRC);
+              
           });
       });
   }
