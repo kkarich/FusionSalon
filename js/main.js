@@ -463,6 +463,8 @@
 		testimonialsWayPoint();
 		pricingWayPoint();
 		pressWayPoint();
+		
+		openVideoPlayer()
 
 	});
 
