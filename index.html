@@ -106,11 +106,7 @@ layout: default
           
           $(theModal).on('hidden.bs.modal', function () {
   $(theModal + ' iframe').attr('src', videoSRC);
-})
-          
-          $(theModal + ' button.close').click(function () {
-              
-          });
+});
       });
   }
       autoPlayYouTubeModal();
