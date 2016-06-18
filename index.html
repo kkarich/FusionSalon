@@ -105,8 +105,8 @@ layout: default
           $(theModal + ' iframe').attr('src', videoSRCauto);
           
           $(theModal).on('hidden.bs.modal', function () {
-  $(theModal + ' iframe').attr('src', videoSRC);
-});
+              $(theModal + ' iframe').attr('src', videoSRC);
+            });
       });
   }
       autoPlayYouTubeModal();
