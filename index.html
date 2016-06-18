@@ -103,6 +103,11 @@ layout: default
               videoSRC = $(this).attr("data-theVideo"),
               videoSRCauto = videoSRC + "?autoplay=1";
           $(theModal + ' iframe').attr('src', videoSRCauto);
+          
+          $(theModal).on('hidden.bs.modal', function () {
+  // do something…
+})
+          
           $(theModal + ' button.close').click(function () {
               $(theModal + ' iframe').attr('src', videoSRC);
           });
