@@ -318,6 +318,9 @@ h1, h2, h3, h4, h5, h6 {
     left: 0;
 }
 
+address{
+    text-align:left;
+}
 .tagline{
      color: #6173f4;
     font-family: 'Dancing Script',cursive;
