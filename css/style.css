@@ -318,6 +318,12 @@ h1, h2, h3, h4, h5, h6 {
     left: 0;
 }
 
+.tagline{
+     color: #6173f4;
+    font-family: 'Dancing Script',cursive;
+    font-size: 40px;
+}
+
 @media (min-width: 768px){
 .navbar-nav{
     float:none;
