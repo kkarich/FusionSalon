@@ -4,6 +4,23 @@
 				<div class="col-md-12 section-heading text-center to-animate">
 					<h2 class="editable">Stylists</h2>
 				</div>
+					    
+				  {% for stylist in site.stylists %}
+						<div class="col-md-4 text-center to-animate">
+							<div class="person">
+								<img src="{{ stylist.profile_image_path }}" class="img-responsive img-rounded" alt="Person" />
+								<h3 class="name">{{ stylist.name }}</h3>
+								<!--<div class="position">Web Developer</div>-->
+								<p> {{ stylist.mini-bio }} </p>
+								<a href="{{ stylist.url }}"> Learn More </a>
+								<!-- Button trigger modal -->
+                                <button type="button" class="btn btn-primary btn-lg" data-toggle="modal" data-target="#aboutModal{{forloop.index}}">
+                                  Launch demo modal 
+                                </button>
+                                
+							</div>
+						</div>
+                  {% endfor %}
 				
 				<div class="col-md-12">
 					<div class="row row-bottom-padded-sm">
@@ -21,6 +38,13 @@
                                   Launch demo modal 
                                 </button>
                                 
+							</div>
+						</div>
+						
+						
+				
+				
+				
                                 <!-- Modal -->
                                 <div class="modal fade" id="aboutModal{{forloop.index}}" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
                                   <div class="modal-dialog" role="document">
@@ -39,8 +63,6 @@
                                     </div>
                                   </div>
                                 </div>
-							</div>
-						</div>
                   {% endfor %}
 					    
 						<!--<div class="col-md-4 text-center to-animate">-->
