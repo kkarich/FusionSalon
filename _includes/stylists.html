@@ -17,12 +17,12 @@
 								<p> {{ stylist.mini-bio }} </p>
 								<a href="{{ stylist.url }}"> Learn More </a>
 								<!-- Button trigger modal -->
-                                <button type="button" class="btn btn-primary btn-lg" data-toggle="modal" data-target="#{{stylist.name}}">
-                                  Launch demo modal {{forloop.index}}
+                                <button type="button" class="btn btn-primary btn-lg" data-toggle="modal" data-target="#aboutModal{{forloop.index}}">
+                                  Launch demo modal 
                                 </button>
                                 
                                 <!-- Modal -->
-                                <div class="modal fade" id="{{stylist.name}}" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
+                                <div class="modal fade" id="aboutModal{{forloop.index}}" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
                                   <div class="modal-dialog" role="document">
                                     <div class="modal-content">
                                       <div class="modal-header">
