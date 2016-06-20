@@ -40,11 +40,11 @@
 								<img src="{{ stylist.profile_image_path }}" class="img-responsive img-rounded" alt="Person" />
 								
     					    <h4>Contact Information</h4>
-        					{% if page.phone %}
-                              <p>Phone: {{page.phone}}</p>
+        					{% if stylist.phone %}
+                              <p>Phone: {{stylist.phone}}</p>
                             {% endif %}
-        					{% if page.email %}
-                              <p>Email: {{page.email}}</p>
+        					{% if stylist.email %}
+                              <p>Email: {{stylist.email}}</p>
                             {% endif %}
 								<p> {{ stylist.bio }} </p>
                                   
