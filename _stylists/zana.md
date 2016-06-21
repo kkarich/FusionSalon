@@ -2,7 +2,7 @@
 name: Zana
 phone: 630.890.8516 
 email: 
-profile_image_path: images/stylists/angie.jpg
+profile_image_path: images/stylists/headshots-zana.jpg
 
 mini-bio: "Born and raised in Russia, Zana moved to Chicago in 2000, where she continued her talent in cosmetology. She has lived and trained in hairdressing in two countries and has achieved many qualifications within the industry. She speaks fluent Polish, Russian and English. She is as passionate about hairdressing as she was 20 years ago, when she started."
 
