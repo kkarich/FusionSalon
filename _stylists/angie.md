@@ -2,7 +2,7 @@
 name: Angie
 phone: 630.290.8674
 email: Ang.fusion116@gmail.com
-profile_image_path: images/stylists/angie.jpg
+profile_image_path: images/stylists/headshots-angie.jpg
 
 
 mini-bio: "Angela, Glen Ellyn native and Owner of Fusion… A Contemporary Hair Salon, has been behind the chair for over 12 years.  She studied at Pivot Point International Academy and continued her education for two years with Kathy Simon, the creator of The Mekka System Education of Cutting and Schwarzkopf Color."
