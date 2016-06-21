@@ -2,7 +2,7 @@
 name: Nikki
 phone: 630.479.8292 
 email: Nmpope@ymail.com
-profile_image_path: images/stylists/headshots-nikki.jpg
+profile_image_path: images/stylists/headshots-nicole.jpg
 
 
 mini-bio: "Nikki has been a hairstylist in Glen Ellyn for over 15 years delivering exceptional customer service, while helping her clients develop their desired look. She believes the most important component of good color is protecting the integrity of the client’s hair, while listening to the client’s specific wants and needs."
