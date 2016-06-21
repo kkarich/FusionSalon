@@ -2,7 +2,7 @@
 name: Patti
 phone: 
 email: PattiBStylist@gmail.com
-profile_image_path: images/stylists/angie.jpg
+profile_image_path: images/stylists/headshots-patti.jpg
 
 
 mini-bio: "I have been working in Glen Ellyn as a stylist for over 18 years now.
