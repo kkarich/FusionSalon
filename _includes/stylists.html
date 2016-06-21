@@ -39,13 +39,13 @@
                                   
 								<img src="{{ stylist.profile_image_path }}" class="img-responsive img-rounded" alt="Person" />
 								
-    					    <h2>Contact Information</h2>
-        					{% if stylist.phone %}
-                              <p>Phone: {{stylist.phone}}</p>
-                            {% endif %}
-        					{% if stylist.email %}
-                              <p>Email: {{stylist.email}}</p>
-                            {% endif %}
+        					    <h2>Contact Information</h2>
+            					{% if stylist.phone %}
+                                  <p>Phone: {{stylist.phone}}</p>
+                                {% endif %}
+            					{% if stylist.email %}
+                                  <p>Email: {{stylist.email}}</p>
+                                {% endif %}
                     
                                 <h2> Bio </h2>
 								<p> {{ stylist.bio }} </p>
