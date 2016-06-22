@@ -34,7 +34,7 @@ a:hover, a:active, a:focus {
   outline: none;
 }
 
-p {
+p {p
   margin-bottom: 1.5em;
 }
 
@@ -870,7 +870,7 @@ address{
   float: left;
   width: 100%;
 }
-.person img {
+.person img, .modal-body img{
   display: block;
   margin: 0 auto;
   height: 150px;
