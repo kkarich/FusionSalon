@@ -15,7 +15,7 @@ prices:
     - Kids haircut (under 12 yrs)- starting at $20
     - Blow dry and style-starting at $25
     - Up-do's- starting at $65
-    - #Color
+    - -Color-
     - Touch-up- $50
     - Touch-up and pull through-$65
     - Partial foil- starting at $65
