@@ -902,6 +902,11 @@ address{
     text-align:left;
     margin-top:0;
 }
+
+
+#footer a{
+    color:white;
+}
 #footer .copyright {
   margin-bottom: 0px;
   padding-bottom: 0;
