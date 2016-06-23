@@ -893,8 +893,8 @@ address{
 
 #footer {
   padding: 50px 0;
-  color: #7f7f7f;
-  background-color:#F4F4F4;
+  color: white;
+  background-color:#6173F4;
 }
 #footer .copyright {
   margin-bottom: 0px;
