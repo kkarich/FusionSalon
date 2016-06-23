@@ -893,9 +893,13 @@ address{
 }
 
 
-.modal-header {
+.modal .modal-header {
     color:white;
     background-color:#6173F4;
+}
+
+.modal .modal-header .modal-title{
+    color:white;
 }
 
 #footer {
