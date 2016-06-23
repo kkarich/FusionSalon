@@ -2,7 +2,7 @@
 name: Jacquie
 phone: 630.697.5220
 email: Retrohair@msn.com
-mini-bio: "Hello my name is Jacquie and I am in the business of helping people feel good about themselves. I have over 25 years of experience in coloring,cutting,straightening and perming peoples hair."
+mini-bio: "Hello my name is Jacquie and I am in the business of helping people feel good about themselves. I have over 25 years of experience in coloring, cutting, straightening and perming peoples hair."
 
 profile_image_path: images/stylists/headshots-jacquie.jpg
 
