@@ -896,6 +896,11 @@ address{
   color: white;
   background-color:#6173F4;
 }
+
+#footer h2{
+    color:white;
+    text-align:left;
+}
 #footer .copyright {
   margin-bottom: 0px;
   padding-bottom: 0;
