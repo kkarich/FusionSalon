@@ -61,7 +61,13 @@
                                 {% if stylist.prices %}
                                     <ul>
                                         {% for price in stylist.prices %}
-            								<li> {{ price }} </li>
+                                            {% if price[0] == "#" %}
+                                            
+                                            {% else %}
+                                                <li> {{ price }} </li>
+                                            {% endif %}
+                                        
+            								
                                         {% endfor %}
                                         
                                     </ul>
