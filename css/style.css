@@ -28,6 +28,7 @@ a {
   -webkit-transition: 0.5s;
   -o-transition: 0.5s;
   transition: 0.5s;
+  cursor:pointer;
 }
 a:hover, a:active, a:focus {
   color: #6173f4;
