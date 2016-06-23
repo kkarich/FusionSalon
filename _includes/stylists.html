@@ -58,9 +58,12 @@
 								<p> {{ stylist.bio }} </p>
 								
                                 <h2> Price List </h2>
+                                <ul>
                                 {% for price in stylist.prices %}
-    								<p> {{ price }} </p>
+    								<li> {{ price }} </li>
                                   {% endfor %}
+                                    
+                                </ul>
                                               
                                 
                               </div>
