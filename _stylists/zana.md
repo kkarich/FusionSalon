@@ -21,6 +21,6 @@ prices:
     - Up-dos- $65 and up
     - Agave smoothing $250
     - Permanent wave $90 and up
-    - *all prices determined on length and density of hair
+    - all prices determined on length and density of hair
 
 ---
