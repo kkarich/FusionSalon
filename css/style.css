@@ -900,6 +900,7 @@ address{
 #footer h2{
     color:white;
     text-align:left;
+    margin-top:0;
 }
 #footer .copyright {
   margin-bottom: 0px;
