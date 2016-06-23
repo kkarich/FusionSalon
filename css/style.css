@@ -892,6 +892,12 @@ address{
   letter-spacing: 2px;
 }
 
+
+.modal-header {
+    color:white;
+    background-color:#6173F4;
+}
+
 #footer {
   padding-top: 50px;
   color: white;
