@@ -314,7 +314,7 @@ h1, h2, h3, h4, h5, h6 {
     position: absolute;
     background: url("/images/play.png") no-repeat;
     background-position: 50% 50%;
-    background-size: 300%;
+    background-size: 40%;
     top: 0;
     left: 0;
 }
