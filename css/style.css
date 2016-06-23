@@ -906,6 +906,7 @@ address{
 
 #footer a{
     color:white;
+    border-bottom: 1px dotted #000;
 }
 #footer .copyright {
   margin-bottom: 0px;
