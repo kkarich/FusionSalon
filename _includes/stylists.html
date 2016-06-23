@@ -59,14 +59,14 @@
 								
                                 <h2> Price List </h2>
                                 {% if stylist.prices %}
-                                <ul>
-                                {% for price in stylist.prices %}
-    								<li> {{ price }} </li>
-                                  {% endfor %}
-                                    
-                                </ul>
+                                    <ul>
+                                        {% for price in stylist.prices %}
+            								<li> {{ price }} </li>
+                                        {% endfor %}
+                                        
+                                    </ul>
                                 {% else %}
-                                <p> Please contact for prices </p>
+                                    <p> Please contact for prices </p>
                                 {% endif %}
                                               
                                 
