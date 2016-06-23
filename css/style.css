@@ -892,7 +892,7 @@ address{
 }
 
 #footer {
-  padding: 50px 0;
+  padding-top: 50px;
   color: white;
   background-color:#6173F4;
 }
