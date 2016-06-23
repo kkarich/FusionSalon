@@ -1,5 +1,5 @@
 ---
-name: Nikki
+name: Nicole
 phone: 630.479.8292 
 email: Nmpope@ymail.com
 profile_image_path: images/stylists/headshots-nicole.jpg
