@@ -62,8 +62,7 @@
                                     <ul>
                                         {% for price in stylist.prices %}
                                         
-                                            {{price[3]}}
-                                            {% if price[2] == "-" %}
+                                            {% if price == "-" %}
                                                 <h4> {{price}}</h4>
                                             {% else %}
                                                 <li> {{ price }} </li>
