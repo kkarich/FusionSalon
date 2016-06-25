@@ -61,7 +61,7 @@
                                 {% if stylist.prices %}
                                     <ul>
                                         {% for price in stylist.prices %}
-                                        {% assign words = "Hi" %}
+                                        {% assign words = "Hi" | slice: 0 %}
                                         {{words}}
                                             {% if price == "-" %}
                                                 <h4> {{price}}</h4>
