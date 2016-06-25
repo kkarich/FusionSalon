@@ -908,7 +908,7 @@ address{
   background-color:#6173F4;
 }
 
-#footer h2{
+#footer h2,h4{
     color:white;
     text-align:left;
     margin-top:0;
