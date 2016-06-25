@@ -324,6 +324,10 @@ address{
     text-align:left;
 }
 
+#footer p.left{
+    float:left;
+}
+
 #map{
     height:230px;
     margin-top: 10px;
